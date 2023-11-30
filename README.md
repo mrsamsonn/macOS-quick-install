@@ -11,4 +11,6 @@ base code:
 asr restore [source disk] [target disk] [**args method]
 ```
 
+the following scripts have more arguements for easy usability so users don't have to type out the whole cmd. Additionally, macOS dmgs have to be prepped for this commands to work. 
+
 
