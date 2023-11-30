@@ -1,5 +1,5 @@
 # macOS-quick-install
-Co-authored scripts for quick macOS installation
+> Co-authored scripts for quick macOS installation
 
 Issue: macOS installation takes a while (~30min), using asr method, we can speed this process through cloning which takes roughly (~5mins).
 
